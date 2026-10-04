@@ -1,0 +1,30 @@
+# Служебные папки Visual Studio
+.vs/
+.vscode/
+
+# Папки сборки (Release, Debug, x64, x86)
+x64/
+x86/
+Debug/
+Release/
+
+# Промежуточные файлы компиляции
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.recipe
+*.iobj
+*.ipdb
+
+# Файлы пользователя Visual Studio
+*.user
+*.suo
+*.cache
+
+# Результаты экспериментов (опционально — можно оставить)
+# Results.csv
+# Input.txt
+# Output.txt
