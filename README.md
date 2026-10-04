@@ -12,6 +12,7 @@
 | 5 | Stanford CS149 assignment 1 | 15.12.2026 | `lab05/` | Не начата |
 
 ## Структура репозитория
+'''
 Parallel-Programming/
 ├── .gitignore
 ├── README.md
@@ -29,3 +30,4 @@ Parallel-Programming/
 ├── README.md
 ├── Results.csv
 └── Verify.py
+'''
