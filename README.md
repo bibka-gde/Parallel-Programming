@@ -14,17 +14,13 @@
 ## Структура репозитория
 ```
 lab1/
-├── Benchmark/
-│ └── Benchmark.cpp
 ├── GenerateInput/
 │ └── GenerateInput.cpp
 ├── MatrixMultiplication/
-│ ├── MatMulOmp.cpp
 │ └── MatrixMult.cpp
 ├── Input.txt
 ├── MatrixMultiplication.slnx
 ├── Output.txt
 ├── README.md
-├── Results.csv
 └── Verify.py
 ```
