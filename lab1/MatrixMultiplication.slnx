@@ -6,7 +6,6 @@
   <Folder Name="/Элементы решения/">
     <File Path="Verify.py" />
   </Folder>
-  <Project Path="Benchmark/Benchmark.vcxproj" />
-  <Project Path="GenerateInput/GenerateInput.vcxproj" />
-  <Project Path="MatrixMultiplication/MatrixMultiplication.vcxproj" />
+  <Project Path="GenerateInput/GenerateInput.vcxproj" Id="c0aae7f5-4787-4f8d-9204-ecb8e56196aa" />
+  <Project Path="MatrixMultiplication/MatrixMultiplication.vcxproj" Id="2e8d513c-77c8-41c6-af11-634640db2775" />
 </Solution>
