@@ -13,22 +13,16 @@
 
 ## Структура репозитория
 Parallel-Programming/
-│
 ├── .gitignore
 ├── README.md
-│
 └── lab1/
-│
 ├── Benchmark/
 │ └── Benchmark.cpp
-│
 ├── GenerateInput/
 │ └── GenerateInput.cpp
-│
 ├── MatrixMultiplication/
 │ ├── MatMulOmp.cpp
 │ └── MatrixMult.cpp
-│
 ├── Input.txt
 ├── MatrixMultiplication.slnx
 ├── Output.txt
