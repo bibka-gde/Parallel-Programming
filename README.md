@@ -13,12 +13,7 @@
 
 ## Структура репозитория
 ```
-Parallel-Programming/
-│
-├── .gitignore
-├── README.md
-│
-└── lab1/
+lab1/
 ├── Benchmark/
 │ └── Benchmark.cpp
 ├── GenerateInput/
