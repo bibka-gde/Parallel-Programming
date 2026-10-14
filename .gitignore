@@ -24,20 +24,17 @@
 *.suo
 *.cache
 
-# Тестовые данные (опционально — можно закоммитить для примера)
-**/Input.txt
-**/Output.txt
+# Тестовые данные lab1 (игнорируем)
+lab1/Input.txt
+lab1/Output.txt
 
-# Результаты бенчмарков
-**/benchmark_results.csv
+# Результаты бенчмарков lab1 (если есть)
+lab1/benchmark_results.csv
 
 # Python
 __pycache__/
 *.pyc
 *.pyo
-
-# Графики результатов
-**/graphs/
 
 # Временные файлы ОС
 Thumbs.db
