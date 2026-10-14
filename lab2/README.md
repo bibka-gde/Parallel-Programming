@@ -44,9 +44,11 @@ for (int i = 0; i < n; i++) {
 | 1600×1600      | 2.16     | 3.65     | 6.55      |
 | 2000×2000      | 1.81     | 3.22     | 4.23      |
 
-### Графики результатов
+## Графики результатов
+
 ### График 1: время выполнения от размера матрицы
 <img width="3000" height="1800" alt="time_vs_size" src="https://github.com/user-attachments/assets/46ddd300-9ed5-44ab-b27e-053c71e8d449" />
+
 ### График 2: Ускорение выполнения от кол-ва потоков
 <img width="3000" height="1800" alt="speedup" src="https://github.com/user-attachments/assets/9c2f06f9-541f-4c1c-8b72-917bf37181fa" />
 
