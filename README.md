@@ -24,3 +24,20 @@ lab1/
 ├── README.md
 └── Verify.py
 ```
+
+```
+lab2/
+├── Benchmark/
+│   └── Benchmark.cpp
+├── GenerateInput/
+│   └── GenerateInput.cpp
+├── MatrixMultiplication/
+│   ── MatrixMultiplication.cpp
+├── graphs/
+├──  Graphics.py
+├── Verify.py
+├── Input.txt
+├── Output.txt
+├── README.md
+└── ️ lab2.slnx
+```
